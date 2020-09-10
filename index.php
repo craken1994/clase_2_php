@@ -146,11 +146,4 @@
     echo "Valor ingresado: " . $estacion; echo "<br>";
     echo "Estación: " . $resultado; 
 
-
-
-
-
-
-    //llevar todo a formulario mediante GET
-    //imprimir la recuperación siempre y cuando haya dado recuperación
 ?>
