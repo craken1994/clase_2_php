@@ -5,8 +5,9 @@
     echo "<h1>1. Estructura Selectiva Simple <i>if</i></h1>";
 
     //declaramos variables
-    $puntaje =  51; //registramos un puntaje en esta variable <---------------------
-    $resultado; $beca;
+    $puntaje =  21; //registramos un puntaje en esta variable <---------------------
+    $resultado = "No ingresó";
+    $beca = "No";
 
     //evaluamos la condición
     if($puntaje > 50){
@@ -26,7 +27,7 @@
     echo "<h1>2. Estructura Selectiva Doble <i>if-else</i></h1>";
 
     //declaramos variables
-    $edad = 17; //<---------------------
+    $edad = 11; //<---------------------
     $mayor_edad;
 
      //evaluamos la condición
@@ -79,7 +80,7 @@
     echo '<h1>4. Operador Lógico "Y" (&&)</h1>';
 
     //declaramos variables
-    $temp =  8;//<---------------------
+    $temp =  21;//<---------------------
     $clima;
 
     //evaluamos la condición
